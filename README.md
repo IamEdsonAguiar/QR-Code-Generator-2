@@ -11,7 +11,7 @@ QR Code Generator 2 is a qr code generator, second version made with html, css, 
 
 <table>
    <tr>
-      <td><a href="">Use the app</a></td>
+      <td><a href="https://qr-code-generator-2.vercel.app/">Use the app</a></td>
    </tr>
 </table>
 
